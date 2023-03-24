@@ -1,5 +1,6 @@
 # RFM-analysis-PythoN
 #STEPS TO STEPS TO TAKE BEFORE STARTING ANY ANALYSIS:
+![RFM1](https://user-images.githubusercontent.com/77893734/227652811-a9abd068-1ff2-44c2-a7e8-d7da5e70e214.png)
 
 #The first step in data analysis is to clearly define your questions and goals,
 
